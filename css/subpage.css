@@ -40,3 +40,11 @@ p {
     line-height: 1.5;
     margin-bottom: 8px;
 }
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+a:link {color:red;}
