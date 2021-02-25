@@ -171,6 +171,7 @@ kv.css
     position: relative;
     width: 100vw;
     height: 100vh;
+    text-align:center;
 }
 
 .ar_about_video_wrapper > video {
@@ -183,5 +184,5 @@ kv.css
 }
 
 .ar_abount_information {
-  padding: 30px 70px;
+  padding: 20px 40px;
 }
