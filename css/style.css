@@ -1,6 +1,10 @@
 body {
     /*padding-top: 80px;*/
 }
+video {
+  width: 100%;
+  max-width: 400px;
+}
 .header {
     position: fixed;
     display: flex;
@@ -167,15 +171,3 @@ kv.css
     width: 214px;
     height: 56px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
