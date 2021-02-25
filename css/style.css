@@ -1,6 +1,12 @@
 body {
     /*padding-top: 80px;*/
 }
+
+video {
+  width: 100%;
+  height: auto;
+}
+
 .header {
     position: fixed;
     display: flex;
@@ -167,12 +173,10 @@ kv.css
     width: 214px;
     height: 56px;
 }
+.postar_about_title {
+  text-align: center;
+}
 
-  video {
-    width: 100%;
-    height: auto;
-  }
-
-.ar_abount_information {
+.postar_about_information {
   padding: 20px 40px;
 }
