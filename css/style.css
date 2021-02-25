@@ -3,7 +3,6 @@ body {
 }
 video {
   width: 100%;
-  max-width: 400px;
 }
 .header {
     position: fixed;
