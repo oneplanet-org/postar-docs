@@ -1,9 +1,6 @@
 body {
     /*padding-top: 80px;*/
 }
-video {
-  width: 100%;
-}
 .header {
     position: fixed;
     display: flex;
@@ -169,4 +166,19 @@ kv.css
     left: 180px;
     width: 214px;
     height: 56px;
+}
+.video_wrapper {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.video_wrapper > video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    min-width: 100%;
+    min-height: 100%;
 }
