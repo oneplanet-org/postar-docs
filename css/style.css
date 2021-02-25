@@ -171,7 +171,7 @@ kv.css
     position: relative;
     width: 100vw;
     height: 100vh;
-    text-align:center;
+    /*text-align:center;*/
 }
 
 .ar_about_video_wrapper > video {
